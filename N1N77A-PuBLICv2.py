@@ -18,8 +18,8 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from PUBLIC import login
+        from PUBLIC import Subscription
  
-        login()
+        Subscription()
  
         

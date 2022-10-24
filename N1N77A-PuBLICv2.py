@@ -18,7 +18,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from N1N77A-V2 import Subscription
+        from public import Subscription
  
         Subscription()
  
